@@ -1,0 +1,15 @@
+C:\Users\Виктор\OneDrive\Рабочий стол\Учеба\5 курс 1 сессия\ПП\parallel-programming-csharp\lb1\lr2\obj\Debug\net8.0\lr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктор\OneDrive\Рабочий стол\Учеба\5 курс 1 сессия\ПП\parallel-programming-csharp\lb1\lr2\obj\Debug\net8.0\lr2.AssemblyInfoInputs.cache
+C:\Users\Виктор\OneDrive\Рабочий стол\Учеба\5 курс 1 сессия\ПП\parallel-programming-csharp\lb1\lr2\obj\Debug\net8.0\lr2.AssemblyInfo.cs
+C:\Users\Виктор\OneDrive\Рабочий стол\Учеба\5 курс 1 сессия\ПП\parallel-programming-csharp\lb1\lr2\obj\Debug\net8.0\lr2.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\OneDrive\Рабочий стол\Учеба\5 курс 1 сессия\ПП\parallel-programming-csharp\lb1\lr2\obj\Debug\net8.0\lr2.sourcelink.json
+C:\Users\Виктор\OneDrive\Рабочий стол\Учеба\5 курс 1 сессия\ПП\parallel-programming-csharp\lb1\lr2\bin\Debug\net8.0\lr2.exe
+C:\Users\Виктор\OneDrive\Рабочий стол\Учеба\5 курс 1 сессия\ПП\parallel-programming-csharp\lb1\lr2\bin\Debug\net8.0\lr2.deps.json
+C:\Users\Виктор\OneDrive\Рабочий стол\Учеба\5 курс 1 сессия\ПП\parallel-programming-csharp\lb1\lr2\bin\Debug\net8.0\lr2.runtimeconfig.json
+C:\Users\Виктор\OneDrive\Рабочий стол\Учеба\5 курс 1 сессия\ПП\parallel-programming-csharp\lb1\lr2\bin\Debug\net8.0\lr2.dll
+C:\Users\Виктор\OneDrive\Рабочий стол\Учеба\5 курс 1 сессия\ПП\parallel-programming-csharp\lb1\lr2\bin\Debug\net8.0\lr2.pdb
+C:\Users\Виктор\OneDrive\Рабочий стол\Учеба\5 курс 1 сессия\ПП\parallel-programming-csharp\lb1\lr2\obj\Debug\net8.0\lr2.dll
+C:\Users\Виктор\OneDrive\Рабочий стол\Учеба\5 курс 1 сессия\ПП\parallel-programming-csharp\lb1\lr2\obj\Debug\net8.0\refint\lr2.dll
+C:\Users\Виктор\OneDrive\Рабочий стол\Учеба\5 курс 1 сессия\ПП\parallel-programming-csharp\lb1\lr2\obj\Debug\net8.0\lr2.pdb
+C:\Users\Виктор\OneDrive\Рабочий стол\Учеба\5 курс 1 сессия\ПП\parallel-programming-csharp\lb1\lr2\obj\Debug\net8.0\lr2.genruntimeconfig.cache
+C:\Users\Виктор\OneDrive\Рабочий стол\Учеба\5 курс 1 сессия\ПП\parallel-programming-csharp\lb1\lr2\obj\Debug\net8.0\ref\lr2.dll
